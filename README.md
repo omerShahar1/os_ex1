@@ -45,3 +45,9 @@ omer@DESKTOP-SCLMDED:~/os_class/ex1$ ./encode codec2 LALALA123<br />
 ### make clean:<br />
 omer@DESKTOP-SCLMDED:~/os_class/ex1$ make clean<br />
 rm -f encode decode cmp copy libcodec1.so libcodec2.so<br />
+
+<br /><br /><br />
+*used internet code from:
+* https://man7.org/linux/man-pages/man2/readlink.2.html
+* https://www.geeksforgeeks.org/getopt-function-in-c-to-parse-command-line-arguments/
+
