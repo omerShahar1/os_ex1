@@ -1,6 +1,18 @@
-Terminal examples: 
+#how to use:
 
-make all:<br />
+./cmp <file_1_name> <file_2_name> <br />
+./copy <file_1_name> <file_2_name> <br />
+./copy -l <file_1_link> <file_2_name> <br />
+./encode <codec_type> <message> <br />
+./decode <codec_type> <message> <br />
+
+
+
+
+
+#Terminal examples: 
+
+##make all:<br />
 omer@DESKTOP-SCLMDED:~/os_class/ex1$ make all<br />
 gcc -Wall -g -o cmp cmp.c<br />
 gcc -Wall -g -o copy copy.c<br />
