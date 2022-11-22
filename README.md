@@ -10,9 +10,9 @@
 
 
 
-#Terminal examples: 
+# Terminal examples: 
 
-##make all:<br />
+## make all:<br />
 omer@DESKTOP-SCLMDED:~/os_class/ex1$ make all<br />
 gcc -Wall -g -o cmp cmp.c<br />
 gcc -Wall -g -o copy copy.c<br />
