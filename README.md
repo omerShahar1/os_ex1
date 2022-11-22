@@ -1,4 +1,4 @@
-#how to use:
+# how to use:
 
 ./cmp <file_1_name> <file_2_name> <br />
 ./copy <file_1_name> <file_2_name> <br />
